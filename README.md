@@ -1,3 +1,11 @@
+![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple?logo=visualstudio)
+![C Sharp](https://img.shields.io/badge/Language-C%23-blue?logo=csharp)
+![SQL](https://img.shields.io/badge/Language-SQL-lightgrey?logo=postgresql)
+![Oracle](https://img.shields.io/badge/Database-Oracle-red?logo=oracle)
+![Crystal Reports](https://img.shields.io/badge/Reports-Crystal%20Reports-lightgrey?logo=report)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightblue?logo=windows)
+
+
 # Car-Rental
 # 🚗 Car Rental System
 
