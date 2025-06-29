@@ -1,3 +1,5 @@
+# 🏨 Trivago Hotel Booking System
+
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple?logo=visualstudio)
 ![C Sharp](https://img.shields.io/badge/Language-C%23-blue?logo=csharp)
 ![SQL](https://img.shields.io/badge/Language-SQL-lightgrey?logo=postgresql)
@@ -5,31 +7,30 @@
 ![Crystal Reports](https://img.shields.io/badge/Reports-Crystal%20Reports-lightgrey?logo=report)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightblue?logo=windows)
 
+---
 
-# Car-Rental
-# 🚗 Car Rental System
+## 📌 Overview
 
-A desktop-based **Car Rental Management System** built with Visual Studio and Oracle Database, designed to manage car reservations, customers, vehicles, and reporting efficiently.
+**Trivago Hotel Booking System** is a desktop-based application that allows users to book hotel rooms, manage reservations, and generate reports.  
+The system is developed using **Visual Studio (C#)**, connected to an **Oracle Database**, and utilizes **Crystal Reports** for professional reporting.
 
 ---
 
-## 📌 Features
+## 🎯 Features
 
-- 🧾 Add, update, and delete car records
-- 👤 Manage customer information
-- 📆 Book and return cars with real-time availability
-- 💰 Track rental transactions and payments
-- 📊 Generate printable reports using Crystal Reports
-- 🔐 User login and role-based access
+- 🏨 Browse available hotel rooms  
+- 🗓️ Make reservations with check-in/check-out dates  
+- 📋 View customer booking history  
+- 📊 Generate reservation reports via Crystal Reports  
+- 🛡️ Admin login for managing hotels, rooms, and users  
 
 ---
 
-## 🛠️ Technologies Used
+## 🗃️ Tech Stack
 
-- 🖥️ Visual Studio (Windows Forms with C# or VB.NET)
-- 🛢️ Oracle Database
-- 📈 Crystal Reports
-- 🎨 Windows Forms UI
-  
+- **Frontend**: Windows Forms (C#)
+- **Backend**: Oracle SQL (Tables, Views, Procedures)
+- **Reporting**: Crystal Reports
+- **IDE**: Visual Studio
+
 ---
-
