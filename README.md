@@ -1,12 +1,11 @@
 # 🏨 Trivago Hotel Booking System
 
-![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple?logo=visualstudio)
-![C Sharp](https://img.shields.io/badge/Language-C%23-blue?logo=csharp)
-![SQL](https://img.shields.io/badge/Language-SQL-lightgrey?logo=postgresql)
-![Oracle](https://img.shields.io/badge/Database-Oracle-red?logo=oracle)
-![Crystal Reports](https://img.shields.io/badge/Reports-Crystal%20Reports-lightgrey?logo=report)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightblue?logo=windows)
-
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple)
+![Language](https://img.shields.io/badge/Language-C%23-00599C)
+![Database](https://img.shields.io/badge/Database-Oracle-red)
+![Reports](https://img.shields.io/badge/Reporting-Crystal%20Reports-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ---
 
 ## 📌 Overview
